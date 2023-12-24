@@ -1,3 +1,4 @@
+# LinguoGenius RAG Orchestrator 2 @Nokathon
 # Advanced RAG System with TruLens, Flask, and Sentence Window Indexing
 
 This repository contains an advanced Retrieval-Augmented Generation (RAG) system, integrating TruLens for feedback-driven evaluation, Flask for a user-friendly web interface, and Sentence Window Indexing to enhance document retrieval.
