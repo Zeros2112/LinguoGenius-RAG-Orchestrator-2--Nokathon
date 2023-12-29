@@ -6,6 +6,10 @@ This repository contains an advanced Retrieval-Augmented Generation (RAG) system
 
 The system is designed to provide an intuitive platform for users to upload documents, build a Sentence Window Index, and query the system for insightful responses. It leverages TruLens for accurate evaluation metrics and Flask to create a seamless web experience.
 
+## Demo 
+
+[Google_drive](https://drive.google.com/drive/folders/1zdxYE7GZcl9nW0GGBWTXkeVQlOOSHpC1?usp=sharing)
+
 ## Components
 
 1. TruLens Integration
